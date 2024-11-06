@@ -11,7 +11,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: appOfApps
-    repoURL: 'https://github.com/redhat-composer-ai/appOfApps.git'
+    repoURL: 'https://github.com/nstrug/appOfApps.git'
     targetRevision: HEAD
     helm:
       parameters:

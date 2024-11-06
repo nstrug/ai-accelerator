@@ -18,7 +18,7 @@ spec:
         - name: application.defaultNamespace
           value: composer-ai-app
         - name: clusterDomain
-          value: <REPLACE_ME>
+          value: apps.cluster-8drqv.8drqv.sandbox924.opentlc.com
   project: default
   syncPolicy:
     automated:

@@ -15,7 +15,7 @@ spec:
   operand:
     # bug: an image has to be defined otherwise the deployment fails
     # bug: this behavior recently changed
-    image: registry.redhat.io/openshift4/ose-node-feature-discovery:latest
+    image: registry.redhat.io/openshift4/ose-node-feature-discovery-rhel9@sha256:ae43273253e8f2c9ee01958a86c49723a3bcf806441be0c2f0b200f73dc6582a
     servicePort: 12000
   workerConfig:
     configData: |

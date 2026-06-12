@@ -19,3 +19,4 @@ components:
   - ../../components/idle-notebook-culling
   - ../../components/inference-gateway
   - ../../components/rhoai-auth
+  - ../../components/components-llamastack
